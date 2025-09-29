@@ -1,0 +1,36 @@
+**WHAT IS NODE.JS?**
+
+	Definition:
+		Node.js is an open-source, cross-platform, JavaScript runtime environment that allows you to run JavaScript outside of the browser.
+
+	Built on:
+		It is built on Google Chrome’s V8 JavaScript engine (which makes it very fast).
+
+	Main purpose:
+		Node.js lets developers build server-side applications (like APIs, web servers, real-time apps, etc.) using JavaScript.
+		
+		
+	Key Points
+
+		Single-threaded & Event-driven – Handles many requests at the same time without creating multiple threads.
+
+		Non-blocking I/O – Executes tasks asynchronously, so it doesn’t get “stuck” waiting for one request to finish.
+
+		Cross-platform – Runs on Windows, macOS, Linux.
+
+		Package Manager – Uses npm (Node Package Manager) to install and manage libraries.
+
+		Use case – Building scalable network applications (e.g., chat apps, REST APIs, streaming services).
+		
+
+**File System**
+
+Normally WebSite Do Not Access a File System Direectly. (Because of Security Reasons)\
+
+>>So This is Solve USe a Some Modules 
+>> Node Js Modify a V8 Engine 
+				
+				>FileSystem 
+				>OS 
+				>HTTPS
+
